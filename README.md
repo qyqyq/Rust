@@ -1,2 +1,2 @@
 # Rust
-Tiny projects when learning Rust.
+Becoming Rustacean.
