@@ -1,0 +1,1 @@
+E:\20Spring\Rust\restaurant\target\debug\librestaurant.rlib: E:\20Spring\Rust\restaurant\src\front_of_house\hosting.rs E:\20Spring\Rust\restaurant\src\front_of_house.rs E:\20Spring\Rust\restaurant\src\lib.rs
