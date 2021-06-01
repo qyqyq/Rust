@@ -1,5 +1,5 @@
 # Rust
-Becoming Rustacean.
+#### Becoming Rustacean.
 
 Guessing game: Starting point, a simple program.
 
